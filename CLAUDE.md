@@ -10,6 +10,13 @@ Cada número de episódio pode ter duas versões: a visão do **Lucas** e a vis�
 **A bíblia da série está em `docs/bíblia_dez_mil_reais.md`** (cópia do doc "Dez Mil Reais — Ep. 2 (Lucas) e bíblia dos 15 episódios"). Ela tem: verdades fixas (o crime de 2006, quem é o número desconhecido), quem é quem, objetos que atravessam a série, arco dos 15 episódios, regras anti-furo, subtramas, roteiros dos Eps. 2 e 3 e as regras de produção. Ela manda; este arquivo só resume.
 O doc original continua no claude.ai: https://claude.ai/artifact/X229EXHLaJNAiEWXcXV7Yp
 
+
+## Onde os arquivos ficam (GitHub)
+Este projeto mora no GitHub: **https://github.com/gabrielrodri132/dez-mil-reais** (privado). As sessões na nuvem são temporárias: o que não for enviado ao GitHub se perde quando a sessão fecha.
+- **Ao terminar qualquer trabalho, faça commit e push para `main`** sem esperar o Gabriel pedir (ele autorizou em 13/11/2026). Mensagem de commit curta, em português.
+- Vídeos e áudios pesados (`.mp4`, `.wav`, `.f32`) não vão para o GitHub (estão no `.gitignore`); ficam no computador do Gabriel.
+- Arquivo que o Gabriel mandar por zip vai para dentro deste repositório e entra no próximo commit.
+
 ## Onde a série parou (12/11/2026)
 - Prontos: Ep. 1, Ep. 2 Lucas, Ep. 2 Isabela, Ep. 3 Lucas (MP4s ficaram nas saídas da conversa "projeto 1").
 - Thumbs do Ep. 3 feitas (vertical e 16:9).
