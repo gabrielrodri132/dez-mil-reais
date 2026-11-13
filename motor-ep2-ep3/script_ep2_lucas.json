@@ -1,0 +1,401 @@
+{
+ "voices": {
+  "L": "Lucas",
+  "U": "Número desconhecido",
+  "R": "Ricardo",
+  "I": "Isabela",
+  "C": "Célia",
+  "G": "Graça",
+  "D": "Delegado Moura",
+  "P": "Paula"
+ },
+ "clips": {
+  "L1": {
+   "who": "L",
+   "phrases": [
+    "Eu devolvi dez mil reais pro pai da minha namorada…",
+    "e saí algemado.",
+    "Mas antes…",
+    "eu achei uma coisa dentro daquela carteira que ninguém devia ter visto."
+   ]
+  },
+  "L2": {
+   "who": "L",
+   "phrases": [
+    "Cinquenta notas de duzentos.",
+    "Tava tudo ali.",
+    "E no meio do dinheiro…",
+    "tava o meu pai."
+   ]
+  },
+  "C2": {
+   "who": "C",
+   "phrases": [
+    "Onde você achou isso?"
+   ]
+  },
+  "L3": {
+   "who": "L",
+   "phrases": [
+    "Na carteira do pai da Isabela."
+   ]
+  },
+  "C3": {
+   "who": "C",
+   "phrases": [
+    "Catorze de março de dois mil e seis…",
+    "É o dia que você nasceu."
+   ]
+  },
+  "L4": {
+   "who": "L",
+   "phrases": [
+    "Mãe, quem tava do outro lado dessa foto?"
+   ]
+  },
+  "C4": {
+   "who": "C",
+   "phrases": [
+    "Devolve.",
+    "Amanhã cedo.",
+    "Tudo.",
+    "E fica longe dessa família."
+   ]
+  },
+  "L5": {
+   "who": "L",
+   "phrases": [
+    "Minha mãe nunca tinha falado assim comigo."
+   ]
+  },
+  "G1": {
+   "who": "G",
+   "phrases": [
+    "Você não devia ter vindo."
+   ]
+  },
+  "R1": {
+   "who": "R",
+   "phrases": [
+    "Olha só, doutor.",
+    "O ladrão voltou."
+   ]
+  },
+  "L6": {
+   "who": "L",
+   "phrases": [
+    "Eu vim devolver.",
+    "Tá tudo aí.",
+    "Dez mil."
+   ]
+  },
+  "R2": {
+   "who": "R",
+   "phrases": [
+    "Quem te deu isso?"
+   ]
+  },
+  "L7": {
+   "who": "L",
+   "phrases": [
+    "Tava na sua carteira."
+   ]
+  },
+  "R3": {
+   "who": "R",
+   "phrases": [
+    "…trinta e nove…",
+    "quarenta.",
+    "Oito mil, doutor.",
+    "Faltam dois."
+   ]
+  },
+  "L8": {
+   "who": "L",
+   "phrases": [
+    "Mentira!",
+    "Eu não tirei nada!"
+   ]
+  },
+  "D1": {
+   "who": "D",
+   "phrases": [
+    "E essa foto aqui, rapaz?",
+    "Mandaram pra filha dele ontem à noite."
+   ]
+  },
+  "L9": {
+   "who": "L",
+   "phrases": [
+    "Alguém me fotografou.",
+    "E aquele celular…",
+    "era da Isabela."
+   ]
+  },
+  "D2": {
+   "who": "D",
+   "phrases": [
+    "Lucas Silva, você tá detido por furto."
+   ]
+  },
+  "I1": {
+   "who": "I",
+   "phrases": [
+    "Ele não roubou nada!"
+   ]
+  },
+  "R4": {
+   "who": "R",
+   "phrases": [
+    "Sobe, Isabela."
+   ]
+  },
+  "I2": {
+   "who": "I",
+   "phrases": [
+    "Não.",
+    "A carteira tava no seu paletó depois que ele saiu.",
+    "Eu vi.",
+    "E o senhor sabe muito bem onde estão esses dois mil."
+   ]
+  },
+  "L10": {
+   "who": "L",
+   "phrases": [
+    "Ela nunca tinha enfrentado ele.",
+    "Nunca."
+   ]
+  },
+  "P1": {
+   "who": "P",
+   "phrases": [
+    "O doutor Ricardo é um homem generoso.",
+    "Você assina que pegou os dois mil…",
+    "ele retira a queixa.",
+    "E o despejo da sua mãe…",
+    "desaparece."
+   ]
+  },
+  "L11": {
+   "who": "L",
+   "phrases": [
+    "Era o mesmo nome do papel debaixo da minha porta.",
+    "O despejo da minha mãe…",
+    "era ele."
+   ]
+  },
+  "L12": {
+   "who": "L",
+   "phrases": [
+    "E se eu não assinar?"
+   ]
+  },
+  "P2": {
+   "who": "P",
+   "phrases": [
+    "Aí sua mãe vai pra rua em seis dias.",
+    "E você não vai estar lá pra carregar as caixas.",
+    "Você tem até chegar na delegacia pra decidir."
+   ],
+   "upto": 1
+  },
+  "R5": {
+   "who": "R",
+   "phrases": [
+    "Pelos fundos, doutor.",
+    "Não quero vizinho vendo polícia na minha porta."
+   ]
+  },
+  "U1": {
+   "who": "U",
+   "phrases": [
+    "Você devolveu.",
+    "Eu disse que ia saber."
+   ]
+  },
+  "L13": {
+   "who": "L",
+   "phrases": [
+    "Quem tava me vigiando…",
+    "tava dentro daquela casa."
+   ]
+  },
+  "L14": {
+   "who": "L",
+   "phrases": [
+    "Se eu assino, minha mãe fica com a casa…",
+    "e eu viro ladrão pro resto da vida.",
+    "Se eu não assino, eu fico preso…",
+    "e ela vai pra rua sozinha.",
+    "Comenta 1 pra eu assinar.",
+    "Comenta 2 pra eu não assinar.",
+    "A resposta mais comentada decide o episódio 3."
+   ],
+   "upto": 5
+  },
+  "L15": {
+   "who": "L",
+   "phrases": [
+    "E se você se inscrever agora…",
+    "eu te mostro o que eu vi saindo pelos fundos."
+   ]
+  },
+  "L16": {
+   "who": "L",
+   "phrases": [
+    "Salto vermelho.",
+    "Ainda molhado.",
+    "Alguém daquela casa saiu na chuva ontem à noite."
+   ]
+  }
+ },
+ "segments": [
+  {
+   "id": "L1",
+   "clip": "L1",
+   "pre": 0.35
+  },
+  {
+   "id": "GL",
+   "dur": 1.0,
+   "pre": 0.15
+  },
+  {
+   "id": "L2",
+   "clip": "L2",
+   "pre": 0.1
+  },
+  {
+   "id": "FLIP",
+   "dur": 1.3,
+   "pre": 0.1
+  },
+  {
+   "id": "C2",
+   "clip": "C2",
+   "pre": 0.35
+  },
+  {
+   "id": "L3",
+   "clip": "L3",
+   "pre": 0.15
+  },
+  {
+   "id": "C3",
+   "clip": "C3",
+   "pre": 0.25
+  },
+  {
+   "id": "L4",
+   "clip": "L4",
+   "pre": 0.15
+  },
+  {
+   "id": "C4",
+   "clip": "C4",
+   "pre": 0.2
+  },
+  {
+   "id": "G1",
+   "clip": "G1",
+   "pre": 0.8
+  },
+  {
+   "id": "R1",
+   "clip": "R1",
+   "pre": 0.35
+  },
+  {
+   "id": "L6",
+   "clip": "L6",
+   "pre": 0.15
+  },
+  {
+   "id": "R2",
+   "clip": "R2",
+   "pre": 0.6
+  },
+  {
+   "id": "L7",
+   "clip": "L7",
+   "pre": 0.15
+  },
+  {
+   "id": "R3",
+   "clip": "R3",
+   "pre": 0.3
+  },
+  {
+   "id": "L8",
+   "clip": "L8",
+   "pre": 0.2
+  },
+  {
+   "id": "D1",
+   "clip": "D1",
+   "pre": 0.5
+  },
+  {
+   "id": "D2",
+   "clip": "D2",
+   "pre": 0.2,
+   "post": 0.35
+  },
+  {
+   "id": "I1",
+   "clip": "I1",
+   "pre": 0.15
+  },
+  {
+   "id": "R4",
+   "clip": "R4",
+   "pre": 0.15
+  },
+  {
+   "id": "I2",
+   "clip": "I2",
+   "pre": 0.15
+  },
+  {
+   "id": "P1",
+   "clip": "P1",
+   "pre": 0.35
+  },
+  {
+   "id": "L11",
+   "clip": "L11",
+   "pre": 0.15
+  },
+  {
+   "id": "P2",
+   "clip": "P2",
+   "pre": 0.15
+  },
+  {
+   "id": "U1",
+   "clip": "U1",
+   "pre": 0.6
+  },
+  {
+   "id": "L13",
+   "clip": "L13",
+   "pre": 0.3
+  },
+  {
+   "id": "L14",
+   "clip": "L14",
+   "pre": 0.4
+  },
+  {
+   "id": "L15",
+   "clip": "L15",
+   "pre": 0.4
+  },
+  {
+   "id": "L16",
+   "clip": "L16",
+   "pre": 1.0,
+   "post": 0.8
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "clips": {
+  "L1": {
+   "who": "L",
+   "phrases": [
+    "Essa câmera filmou quem pegou a carteira de verdade.",
+    "E não fui eu.",
+    "Mas pra ver esse vídeo…",
+    "eu tive que recusar um acordo."
+   ]
+  },
+  "L2": {
+   "who": "L",
+   "phrases": [
+    "Eu devolvi dez mil reais pro pai da minha namorada.",
+    "Ele disse que faltavam dois mil…",
+    "e eu fui preso.",
+    "A advogada dele me deu uma escolha:",
+    "assinar que eu roubei…",
+    "ou ficar preso."
+   ]
+  },
+  "P1": {
+   "who": "P",
+   "phrases": [
+    "É só uma assinatura, Lucas.",
+    "Sua mãe fica com a casa.",
+    "Todo mundo sai ganhando."
+   ]
+  },
+  "L3": {
+   "who": "L",
+   "phrases": [
+    "Aqui tá escrito que eu sou ladrão."
+   ]
+  },
+  "P2": {
+   "who": "P",
+   "phrases": [
+    "Tá escrito o que te tira daqui."
+   ]
+  },
+  "L4": {
+   "who": "L",
+   "phrases": [
+    "Eu não vou assinar."
+   ]
+  },
+  "P3": {
+   "who": "P",
+   "phrases": [
+    "Então quem acabou de despejar a sua mãe…",
+    "foi você."
+   ]
+  },
+  "L5": {
+   "who": "L",
+   "phrases": [
+    "Aí eu lembrei de um detalhe.",
+    "Em cima do portão daquela casa…",
+    "tinha uma câmera."
+   ]
+  },
+  "L6": {
+   "who": "L",
+   "phrases": [
+    "Delegado!",
+    "A casa dele tem câmera!",
+    "Olha as câmeras!"
+   ]
+  },
+  "D1": {
+   "who": "D",
+   "phrases": [
+    "As câmeras do doutor Ricardo?",
+    "Ele nunca vai te entregar isso."
+   ]
+  },
+  "G1": {
+   "who": "G",
+   "phrases": [
+    "Ele não.",
+    "Mas eu, sim.",
+    "Faz vinte e quatro anos que eu trabalho naquela casa.",
+    "Quem cuida do gravador das câmeras…",
+    "sou eu."
+   ]
+  },
+  "D2": {
+   "who": "D",
+   "phrases": [
+    "Vinte e três e cinco.",
+    "O rapaz saindo…",
+    "e a carteira ainda no paletó."
+   ]
+  },
+  "L7": {
+   "who": "L",
+   "phrases": [
+    "Sete minutos depois, alguém entrou pelos fundos…",
+    "e levou a carteira."
+   ]
+  },
+  "D3": {
+   "who": "D",
+   "phrases": [
+    "Tira as algemas dele."
+   ]
+  },
+  "L8": {
+   "who": "L",
+   "phrases": [
+    "Essa pessoa não roubou a carteira pra ficar com ela.",
+    "Roubou pra colocar no meu caminho."
+   ]
+  },
+  "L9": {
+   "who": "L",
+   "phrases": [
+    "Lá fora, eu vi o pai da Isabela.",
+    "Sozinho, com um envelope cheio de dinheiro.",
+    "Esperando alguém."
+   ]
+  },
+  "L10": {
+   "who": "L",
+   "phrases": [
+    "Ninguém apareceu.",
+    "Mas ele leu alguma coisa no celular…",
+    "que tirou a cor do rosto dele."
+   ]
+  },
+  "I1": {
+   "who": "I",
+   "phrases": [
+    "Lucas…",
+    "eu preciso te contar uma coisa.",
+    "Eu sabia do despejo da sua mãe.",
+    "Antes do jantar."
+   ]
+  },
+  "L11": {
+   "who": "L",
+   "phrases": [
+    "Ela ficou calada enquanto o pai dela me humilhava…",
+    "sabendo de tudo.",
+    "Comenta 1 pra eu perdoar a Isabela.",
+    "Comenta 2 pra eu me afastar dela.",
+    "A resposta mais comentada decide o episódio 4."
+   ]
+  },
+  "L12": {
+   "who": "L",
+   "phrases": [
+    "E quem se inscrever vê o detalhe que o delegado não percebeu.",
+    "Uma pulseira…",
+    "de pérolas."
+   ]
+  }
+ },
+ "segments": [
+  {
+   "id": "L1",
+   "clip": "L1",
+   "pre": 0.3
+  },
+  {
+   "id": "L2",
+   "clip": "L2",
+   "pre": 0.5
+  },
+  {
+   "id": "P1",
+   "clip": "P1",
+   "pre": 0.9
+  },
+  {
+   "id": "L3",
+   "clip": "L3",
+   "pre": 0.45
+  },
+  {
+   "id": "P2",
+   "clip": "P2",
+   "pre": 0.4
+  },
+  {
+   "id": "PUSH",
+   "dur": 1.1,
+   "pre": 0.2
+  },
+  {
+   "id": "L4",
+   "clip": "L4",
+   "pre": 0.1
+  },
+  {
+   "id": "P3",
+   "clip": "P3",
+   "pre": 0.5
+  },
+  {
+   "id": "L5",
+   "clip": "L5",
+   "pre": 0.7
+  },
+  {
+   "id": "L6",
+   "clip": "L6",
+   "pre": 0.45
+  },
+  {
+   "id": "D1",
+   "clip": "D1",
+   "pre": 0.5
+  },
+  {
+   "id": "G1",
+   "clip": "G1",
+   "pre": 0.7
+  },
+  {
+   "id": "D2",
+   "clip": "D2",
+   "pre": 0.9
+  },
+  {
+   "id": "FF",
+   "dur": 1.0,
+   "pre": 0.2
+  },
+  {
+   "id": "L7",
+   "clip": "L7",
+   "pre": 0.1
+  },
+  {
+   "id": "D3",
+   "clip": "D3",
+   "pre": 0.6
+  },
+  {
+   "id": "FREE",
+   "dur": 1.2,
+   "pre": 0.1
+  },
+  {
+   "id": "L8",
+   "clip": "L8",
+   "pre": 0.2
+  },
+  {
+   "id": "L9",
+   "clip": "L9",
+   "pre": 0.8
+  },
+  {
+   "id": "L10",
+   "clip": "L10",
+   "pre": 0.4
+  },
+  {
+   "id": "I1",
+   "clip": "I1",
+   "pre": 1.1
+  },
+  {
+   "id": "HOLD",
+   "dur": 1.3,
+   "pre": 0.1
+  },
+  {
+   "id": "L11",
+   "clip": "L11",
+   "pre": 0.2
+  },
+  {
+   "id": "L12",
+   "clip": "L12",
+   "pre": 0.5,
+   "post": 1.0
+  }
+ ]
+}
