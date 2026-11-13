@@ -20,7 +20,7 @@ Este projeto mora no GitHub: **https://github.com/gabrielrodri132/dez-mil-reais*
 ## Onde a série parou (12/11/2026)
 - Prontos: Ep. 1, Ep. 2 Lucas, Ep. 2 Isabela, Ep. 3 Lucas (MP4s ficaram nas saídas da conversa "projeto 1").
 - Thumbs do Ep. 3 feitas (vertical e 16:9).
-- **Próximo:** Ep. 3 da Isabela. Falta o Gabriel dizer qual opção ganhou na votação do Ep. 2 dela: **1 = depor pelo Lucas** ou **2 = seguir o pai até o "assunto das nove"**. Não comece sem isso.
+- **Próximo:** Ep. 3 da Isabela. **A votação do Ep. 2 dela deu opção 1 = depor pelo Lucas** (informado pelo Gabriel em 13/11/2026). O Ep. 3 da Isabela segue essa escolha.
 - A partir do Ep. 3, os dois têm **subtramas próprias** (seção "Subtramas" da bíblia): no máximo uma cena em comum por par de episódios.
 
 ## Padrões combinados com o Gabriel
